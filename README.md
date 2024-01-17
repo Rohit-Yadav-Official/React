@@ -1,4 +1,5 @@
 # React
+# Virtual DOM
 In React, the "virtual DOM" refers to a programming concept and optimization technique used to improve the performance of updating the user interface. The virtual DOM is not specific to React but is a common approach in many modern web development frameworks.
 
 Here's a brief overview of how the virtual DOM works in React:
