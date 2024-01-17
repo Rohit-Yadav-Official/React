@@ -1,4 +1,1 @@
-#reconciliation
-The reconciliation process involves comparing the updated virtual DOM with a previous snapshot of the virtual DOM (before the update). React uses a diffing algorithm during this comparison to identify the differences between the two virtual DOMs. Once the differences are determined, React calculates the most efficient way to update the actual DOM based on these changes.
 
-**The goal of reconciliation is to minimize the number of manipulations required to update the UI**. By identifying the specific changes in the virtual DOM, React can update only the parts of the actual DOM that need to change, rather than re-rendering the entire UI. This approach helps improve the performance of React applications.
