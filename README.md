@@ -4,7 +4,7 @@ In React, the "virtual DOM" refers to a programming concept and optimization tec
 
 Here's a brief overview of how the virtual DOM works in React:
 
-Actual DOM vs. Virtual DOM:
+**Actual DOM vs. Virtual DOM:**
 
 The "actual DOM" is the real, physical representation of the HTML structure in the browser.
 The "virtual DOM" is an abstraction of the actual DOM, maintained in memory by React.
